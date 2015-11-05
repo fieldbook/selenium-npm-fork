@@ -1,3 +1,13 @@
+## v2.48.2
+
+* Added `WebElement#takeScreenshot()`.
+* More adjustments to promise callback tracking.
+
+## v2.48.1
+
+* FIXED: Adjusted how the control flow tracks promise callbacks to avoid a
+    potential deadlock.
+
 ## v2.48.0
 
 * Node v0.12.x users must run with --harmony. _This is the last release that

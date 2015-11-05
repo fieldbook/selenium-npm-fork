@@ -1,6 +1,6 @@
 {
   "name": "selenium-webdriver",
-  "version": "2.48.0",
+  "version": "2.48.2",
   "description": "The official WebDriver JavaScript bindings from the Selenium project",
   "license": "Apache-2.0",
   "keywords": [
@@ -39,11 +39,11 @@
   "scripts": {
     "test": "mocha --harmony -t 600000 --recursive test"
   },
-  "_id": "selenium-webdriver@2.48.0",
-  "_shasum": "fb7d3eaa19e19774ff840954deeb672c1ddc2b85",
+  "_id": "selenium-webdriver@2.48.2",
+  "_shasum": "b26a4631430d0a9f36284ee0cfe09676e8f348ca",
   "_from": "selenium-webdriver@latest",
-  "_npmVersion": "2.5.1",
-  "_nodeVersion": "0.12.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
   "_npmUser": {
     "name": "jmleyba",
     "email": "jmleyba@gmail.com"
@@ -55,10 +55,10 @@
     }
   ],
   "dist": {
-    "shasum": "fb7d3eaa19e19774ff840954deeb672c1ddc2b85",
-    "tarball": "http://registry.npmjs.org/selenium-webdriver/-/selenium-webdriver-2.48.0.tgz"
+    "shasum": "b26a4631430d0a9f36284ee0cfe09676e8f348ca",
+    "tarball": "http://registry.npmjs.org/selenium-webdriver/-/selenium-webdriver-2.48.2.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/selenium-webdriver/-/selenium-webdriver-2.48.0.tgz",
+  "_resolved": "https://registry.npmjs.org/selenium-webdriver/-/selenium-webdriver-2.48.2.tgz",
   "readme": "ERROR: No README data found!"
 }
